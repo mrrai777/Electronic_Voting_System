@@ -1,0 +1,16 @@
+Need to Create one more table for project working. 
+
+I am writing command to create it.
+
+=================================================
+
+create table number(count int, ccount int, pcount int, ecount int);
+
+===================================================================
+
+insert into number values(1000, 1000, 1000, 1000);
+
+===================================================================
+
+Execute these two commands in the database and your project is ready to 
+work for you.
